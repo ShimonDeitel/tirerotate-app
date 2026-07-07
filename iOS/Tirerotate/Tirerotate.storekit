@@ -1,0 +1,41 @@
+{
+  "identifier" : "TirerotateStoreKit",
+  "nonRenewingSubscriptions" : [],
+  "products" : [],
+  "settings" : {
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "tirerotate.pro.monthly.group",
+      "localizations" : [],
+      "name" : "Tirerotate Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "1.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "tirerotate.pro.monthly",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlock Tread-depth photo log with wear-pattern history graph",
+              "displayName" : "Tirerotate Pro",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.shimondeitel.tirerotate.pro.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Tirerotate Pro Monthly",
+          "subscriptionGroupID" : "tirerotate.pro.monthly.group",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
